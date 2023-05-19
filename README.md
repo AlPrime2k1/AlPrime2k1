@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>I'm Kirti</h2>
-I’m currently working as a Verification engineer intern.<br>🤝 <br>🌱 I’m currently learning UVM for verification.<br>💬 Ask me about Digital design, Verilog, SV or anything random.
+I’m currently working as a Verification engineer intern. <br>🌱 I’m currently learning UVM for verification.<br>💬 Ask me about Digital design, Verilog, SV or anything random.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,5 @@ I’m currently working as a Verification engineer intern.<br>🤝 <br>🌱 I’
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=AlPrime2k1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 💚 From [AlPrime2k1](https://github.com/AlPrime2k1)
