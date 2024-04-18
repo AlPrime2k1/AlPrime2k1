@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>I'm Kirti</h2>
-I’m currently working as a Verification Engineer intern. <br>🌱 I’m currently learning advanced UVM for verification.<br>💬 Ask me about Digital design, Verilog, SV or anything random.
+I’m currently working as a Verification Engineer. <br>🌱 I’m currently working on PCIe verification .<br>💬 Ask me about Digital design, Verilog, SV, PCIe or anything random.
 
 
 ## 🌐 Socials:
